@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aishwarya Janardhan
 - 👀 I’m interested in Software development
 - 🌱 I’m working on personal projects
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to contribute on open source projects
 - 📫 How to reach me aishwarya.janardhan31@gmail.com
 
 <!---
