@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aishwarya Janardhan
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on React Js projects
+- 👀 I’m interested in Software development
+- 🌱 I’m working on personal projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me aishwarya.janardhan31@gmail.com
 
 <!---
